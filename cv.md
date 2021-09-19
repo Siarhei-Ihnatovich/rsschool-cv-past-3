@@ -31,3 +31,12 @@ Brest State University, department of History, Master of History (2007 - 2014).
 - basic CSS
 - Visual Studio Code
 - Chrome
+
+## Courses and trainings
+
+- Basics HTML & CSS from Netology.ru (on-line course)
+- Basics HTML & CSS from MDN Web Docs (self-training)
+
+## English
+
+A2
